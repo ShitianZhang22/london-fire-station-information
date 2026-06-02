@@ -12,8 +12,8 @@ The final data is stored in the `LFB_station_information.csv` file, which contai
 2. **Geocoding**: The geocodes for each station are obtained using the `geopy` library, which interfaces with various geocoding services to convert station names into latitude and longitude coordinates. This is done in `main.ipynb`.
 3. **Manual Checking**: The geocodes are manually checked. The postcodes of Lee Green and Plumstead are corrected, and the geocodes of Eltham and Hammersmith are removed due to the ambiguity of their station names ('Fire Station included'). The coordinates of these stations were removed. The results are stored in `Data/output_v1_checked.csv`.
 4. **Second Geocoding**: The geocodes of all stations with missing geocodes are obtained again by using the corrected station names. Then the locations are converted to the British National Grid (EPSG:27700). This is done in `check.ipynb`. The results are stored in `LFB_station_information.csv`, which is the same as `Data/output_v2.csv`.
-5. **Manual Checking**: The geocodes are manually checked again on Google Maps. The geocodes of the following stations are corrected: Hainault, Chingford, Euston, Enfield, Hornsey, Heston, Bexley, Lee Green, Deptford, Forest Hill, New Cross. The results are stored in `Data/output_v2_checked.csv`. 
-6. **Final Output**: The final output is stored in `Data/output_v3.csv`, which contains the station names and their corresponding geocodes (latitude and longitude) in the WGS84 coordinate system (EPSG:4326) and the British National Grid (EPSG:27700). The data processing steps are documented in `check2.ipynb`.
+5. **Manual Checking**: The geocodes are manually checked again on Google Maps by entering the coordinates and comparing them with the actual locations. The geocodes of the following stations are corrected: Hainault, Chingford, Euston, Enfield, Hornsey, Heston, Bexley, Lee Green, Deptford, Forest Hill, New Cross. The results are stored in `Data/output_v2_checked.csv`. 
+6. **Final Output**: The final output is stored in `Data/output_v3.csv` with additional information. The data processing steps are documented in `check2.ipynb`.
 
 ## Additional Information
 
