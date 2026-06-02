@@ -1,0 +1,104 @@
+name,area,postcode,latitude,longitude
+Barking,Barking and Dagenham,IG11 0BB,51.5300005,0.0888737
+Dagenham,Barking and Dagenham,RM10 7ES,51.5594685,0.1570282
+Dowgate,City,EC4R 3UE,51.510035,-0.0901008
+Shoreditch,Hackney,EC1V 9EY,51.5266217,-0.0854858
+Stoke Newington,Hackney,N16 0AR,51.5625722,-0.076866
+Homerton,Hackney,E9 6DL,51.5486517,-0.0439338
+Harold Hill,Havering,RM3 8UN,51.5983747,0.2235414
+Hornchurch,Havering,RM11 1SH,51.5645114,0.2205803
+Romford,Havering,RM1 4PL,51.5936769,0.1811242
+Wennington,Havering,RM13 9EE,51.5062124,0.2204266
+Holloway,Islington,N7 7QZ,51.5615714,-0.1159427
+Islington,Islington,N1 2TZ,51.5402671,-0.1023069
+East Ham,Newham,E6 3RS,51.5233978,0.0568595
+Plaistow,Newham,E13 8SG,51.5209984,0.0324908
+Stratford,Newham,E15 4EH,51.54375,0.0111288
+Hainault,Redbridge,IG6 3DY,51.6060567,0.102586
+Woodford,Redbridge,IG8 0BS,51.6095417,0.0239672
+Ilford,Redbridge,IG1 1UE,51.5622201,0.0900463
+Bethnal Green,Tower Hamlets,E2 0HU,51.5278765,-0.0532637
+Millwall,Tower Hamlets,E14 8JH,51.5008145,-0.0255594
+Poplar,Tower Hamlets,E14 0BP,51.510921,-0.0146521
+Shadwell,Tower Hamlets,E1 0BX,51.5108626,-0.0557892
+Whitechapel,Tower Hamlets,E1 1LD,51.5153048,-0.0691889
+Chingford,Waltham Forest,E4 6PP,51.629576,-0.0038781
+Leyton,Waltham Forest,E10 5HG,51.5631166,-0.0167425
+Leytonstone,Waltham Forest,E11 3HN,51.5606113,0.0086774
+Walthamstow,Waltham Forest,E17 5JR,51.589725,-0.0288445
+Barnet,Barnet,EN5 1TE,51.6472546,-0.1859671
+Finchley,Barnet,N3 2RP,51.5979575,-0.1792937
+Hendon,Barnet,NW4 4BL,51.5888473,-0.2286435
+Mill Hill,Barnet,NW7 2HX,51.6149965,-0.24321
+Park Royal,Brent,NW10 7NU,51.5357937,-0.2648245
+Wembley,Brent,HA0 2EG,51.5516966,-0.3040197
+Willesden,Brent,NW10 2HH,51.5443512,-0.2367437
+Kentish Town,Camden,NW5 1NS,51.55285,-0.1417189
+Euston,Camden,NW1 2DH,51.5277569,-0.1306108
+West Hampstead,Camden,NW6 1RS,51.5517011,-0.1927967
+Acton,Ealing,W3 8EA,51.507054,-0.2769203
+Ealing,Ealing,W13 8RA,51.5120862,-0.3139067
+Northolt,Ealing,UB5 4JT,51.5546449,-0.3595665
+Southall,Ealing,UB1 3HA,51.5112741,-0.374426
+Enfield,Enfield,EN1 4LA,,
+Edmonton,Enfield,N9 9AA,51.6272314,-0.0690767
+Southgate,Enfield,N14 6BN,51.6305411,-0.1273731
+Hornsey,Haringey,N8 8LS,51.5868092,-0.1282583
+Tottenham,Haringey,N17 6UE,51.5923097,-0.0718471
+Harrow,Harrow,HA5 5RW,51.590961,-0.3663799
+Stanmore,Harrow,HA7 1JS,51.6036692,-0.297607
+Hayes,Hillingdon,UB3 1LL,51.49438,-0.4316736
+Heathrow,Hillingdon,TW6 2RR,51.4802267,-0.4590324
+Hillingdon,Hillingdon,UB10 0PH,51.5319982,-0.4520809
+Ruislip,Hillingdon,HA4 7TW,51.5883815,-0.4367002
+Chiswick,Hounslow,W4 4JY,51.4906046,-0.2690538
+Feltham,Hounslow,TW14 0LH,51.4606344,-0.4138853
+Heston,Hounslow,TW7 4HR,51.483621,-0.3703254
+Bexley,Bexley,DA7 6BY,,
+Erith,Bexley,DA17 6HR,51.4855234,0.1565418
+Sidcup,Bexley,DA14 6NZ,51.4268951,0.0945068
+Beckenham,Bromley,BR3 4LR,51.408058,-0.0342898
+Biggin Hill,Bromley,TN16 3UB,51.313615,0.0341144
+Bromley,Bromley,BR1 1RH,51.407038,0.0171208
+Orpington,Bromley,BR6 9AX,51.372334,0.1107023
+Addington,Croydon,CR0 0QA,51.3519192,-0.0236213
+Croydon,Croydon,CR0 1AR,51.3692161,-0.1055357
+Norbury,Croydon,SW16 4AU,51.4067832,-0.1215921
+Purley,Croydon,CR8 4DB,51.331825,-0.1251504
+Woodside,Croydon,CR0 7AL,51.3857831,-0.0621931
+East Greenwich,Greenwich,SE7 7RF,51.4870103,0.0222712
+Eltham Fire Station,Greenwich,SE9 1BA,51.4506963,0.0594041
+Greenwich,Greenwich,SE10 8UP,51.473859,-0.0136558
+Lee Green,Greenwich,,,
+Plumstead,Greenwich,SE12 8ES,51.487451,0.091512
+Deptford,Lewisham,SE8 5DB,51.4853406,-0.0342162
+Forest Hill,Lewisham,SE23 1HP,51.4423405,-0.0461568
+Lewisham,Lewisham,SE13 6NH,51.4570297,-0.0131157
+New Cross,Lewisham,SE14 5JN,51.474029,-0.0484484
+Dockhead,Southwark,SE1 2BP,51.5008984,-0.070795
+Old Kent Road,Southwark,SE1 5AA,,
+Peckham,Southwark,SE5 8PR,51.4738848,-0.0779762
+Sutton,Sutton,SM1 2JX,51.3688755,-0.2109096
+Wallington,Sutton,SM6 8TE,51.3622744,-0.1482993
+Hammersmith Fire Station,Hammersmith and Fulham,W6 7NL,51.4960867,-0.2242935
+Fulham,Hammersmith and Fulham,SW6 5UJ,51.4779301,-0.2009033
+Chelsea,Kensington and Chelsea,SW3 5UF,51.4871461,-0.1702819
+Kensington,Kensington and Chelsea,W8 4PL,51.50292,-0.1900948
+North Kensington,Kensington and Chelsea,W10 5LP,51.5218253,-0.2122033
+Kingston,Kingston upon Thames,KT2 5PR,51.4294937,-0.3065992
+Surbiton,Kingston upon Thames,KT6 6AF,51.3922391,-0.2980315
+New Malden,Kingston upon Thames,KT3 4RW,51.3990179,-0.2453315
+Brixton,Lambeth,SW9 7NP,51.463738,-0.1094055
+Clapham,Lambeth,SW4 0JT,51.4649299,-0.1408793
+Lambeth,Lambeth,SE1 7SD,51.4928125,-0.1212761
+Lambeth River,Lambeth,SE1 7SD,51.493069,-0.1222462
+West Norwood,Lambeth,SE27 0QA,51.4259963,-0.1055418
+Mitcham,Merton,CR4 4BJ,51.3972598,-0.1728234
+Wimbledon,Merton,SW19 1JN,51.4155878,-0.1974627
+Richmond,Richmond upon Thames,TW9 4PN,51.4674072,-0.2848568
+Twickenham,Richmond upon Thames,TW2 5NT,51.4351607,-0.3475775
+Wandsworth,Wandsworth,SW18 1RL,51.4563832,-0.2014006
+Battersea,Wandsworth,SW11 2TL,51.4671147,-0.1692937
+Tooting,Wandsworth,SW17 7SQ,51.4378274,-0.1627046
+Paddington,Westminster,W2 6NL,51.5200723,-0.1833189
+Soho,Westminster,W1D 5ET,51.5124608,-0.1300891
