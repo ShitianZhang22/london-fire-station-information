@@ -1,4 +1,4 @@
-# london-fire-station-information
+# London Fire Station Information
 
 This repo is to extract the locations of fire stations in London.
 
@@ -6,7 +6,7 @@ The station names are extracted from the [London Fire Brigade website](https://w
 
 The final data is stored in the `LFB_station_information.csv` file, which contains the station names, their corresponding geocodes (latitude and longitude) in the WGS84 coordinate system (EPSG:4326) and the British National Grid (EPSG:27700), and some additional information.
 
-## Coordinate ProcessingMethods
+## Coordinate Processing Methods
 
 1. **Web Scraping**: The station names are scraped from the London Fire Brigade website using Python's `requests` and `BeautifulSoup` libraries. This is done in `main.ipynb`.
 2. **Geocoding**: The geocodes for each station are obtained using the `geopy` library, which interfaces with various geocoding services to convert station names into latitude and longitude coordinates. This is done in `main.ipynb`.
