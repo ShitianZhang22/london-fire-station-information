@@ -6,6 +6,33 @@ The station names are extracted from the [London Fire Brigade website](https://w
 
 The final data is stored in the `LFB_station_information.csv` file, which contains the station names, their corresponding geocodes (latitude and longitude) in the WGS84 coordinate system (EPSG:4326) and the British National Grid (EPSG:27700), and some additional information.
 
+Note: Lambeth River Fire Station does not have mobilisation records in LFB mobilisation datasets.
+
+## Station Opening and Closures
+
+Harold Hill Fire Station is the only new station in LFB that has been opened since 2009. The official open date is 11 Feb 2010, but the fist mobilisation data of the station is on 29 Jan 2010.
+
+The following stations have been closed. They are not included in the final output.
+
+|Name           |Closing Date*|
+|---------------|-------------|
+|Belsize        |9 Jan 2014   |
+|Bow            |9 Jan 2014   |
+|Clerkenwell    |9 Jan 2014   |
+|Downham        |9 Jan 2014   |
+|Kingsland      |9 Jan 2014   |
+|Knightsbridge  |9 Jan 2014   |
+|Silvertown     |9 Jan 2014   |
+|Southwark      |9 Jan 2014   |
+|Westminster    |9 Jan 2014   |
+|Woolwich       |9 Jan 2014   |
+|Dartford       |29 Mar 2023  |
+|Esher          |11 May 2025  |
+|Buckinghamshire|18 Aug 2025  |
+|Essex          |7 Nov 2025   |
+
+* The closing date is based on the last apprearance of the mobilisation data of the station.
+
 ## Coordinate Processing Methods
 
 1. **Web Scraping**: The station names are scraped from the London Fire Brigade website using Python's `requests` and `BeautifulSoup` libraries. This is done in `main.ipynb`.
